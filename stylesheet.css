@@ -1,0 +1,29 @@
+h1{font-family:Helvetica;font-size:50px;text-align:center;color:blue;background:yellow;}
+body{background-color:pink;background-color:pink;
+     opacity:10;
+     color:indigo;
+}
+.menu a{ display: block;
+         padding: 14px 16px;
+         color:red;
+         float: right;
+}
+img {
+  border-radius:100%;
+  
+ 
+}
+
+.uptop{
+  background-color:white;
+  padding:10px;
+  margin 10px;
+
+}
+
+.missionstatement{
+  border:outset red;
+  background-color:lightblue;
+  text-align:center ;
+}
+  
